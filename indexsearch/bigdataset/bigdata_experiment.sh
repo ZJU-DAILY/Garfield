@@ -1,0 +1,1 @@
+nvcc -O3 -o bdse bigdataset_experiment.cu -arch=sm_86 -Xcompiler -fopenmp -Xcompiler -pthread --extended-lambda -w -Xcompiler -mcmodel=medium -Xcompiler \"-Wl,--no-relax\" -lcublas

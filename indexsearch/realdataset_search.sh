@@ -1,0 +1,1 @@
+nvcc -O3 -o realdataset_search realdataset_search.cu -arch=sm_86 -Xcompiler -fopenmp --extended-lambda -w -Xcompiler -mcmodel=medium -Xcompiler \"-Wl,--no-relax\" -lcublas

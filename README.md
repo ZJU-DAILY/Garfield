@@ -1,4 +1,4 @@
-﻿# ![](https://github.com/ZJU-DAILY/Garfield/blob/main/Garfield.jpg)A GPU-Accelerated Framework for Multi-Attribute Range Filtered Approximate Nearest Neighbor Search
+﻿# ![](https://github.com/ZhonggenLi/Garfield/blob/main/Garfield.jpg)A GPU-Accelerated Framework for Multi-Attribute Range Filtered Approximate Nearest Neighbor Search
 
 ## Introduction
 

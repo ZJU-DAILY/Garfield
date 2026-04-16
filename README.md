@@ -1,4 +1,4 @@
-# <img src="https://github.com/ZhonggenLi/Garfield/blob/main/Garfield.jpg" width = 10%>Garfield: A GPU-Accelerated Framework for Multi-Attribute Range Filtered Approximate Nearest Neighbor Search 
+# <img src="https://github.com/ZhonggenLi/Garfield/blob/main/Garfield.jpg" width = 15%>Garfield: A GPU-Accelerated Framework for Multi-Attribute Range Filtered Approximate Nearest Neighbor Search 
 
 ## Introduction
 

@@ -20,9 +20,6 @@ nvcc  -O3  -o  your_executable_file  your_cuda_main_program.cu  -arch=sm_86  -Xc
 ```
 The CUDA source file `your_cuda_main_program.cu` is compiled, and the resulting executable is placed in the specified `your_executable_file` directory.
 ## Examples
-
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
-
 ### Intra-cell Index Build
 
  1. For simulated dataset.

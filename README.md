@@ -179,7 +179,7 @@ Each dataset can be obtained from the following links.
 | Deep1M   | 1,000,000  | 96 |Uniform random |https://ieeexplore.ieee.org/document/7780595                       |
 | SIFT1M   | 1,000,000  | 128  |Uniform random |http://corpus-texmex.irisa.fr/ |
 | DBLP  | 1,000,000     | 768  |Year, #authors,#references, #citations |https://open.aminer.cn/open/article?id=655db2202ab17a072284bc0c    |
-| YouTube     | 1,000,000   | 1024|Year, date, #views, #likes |https://research.google.com/youtube8m/download.html           |
+| YouTube     | 1,000,000   | 1024|Year, time, #views, #likes |https://research.google.com/youtube8m/download.html           |
 | Deep100M   | 100,000,000   | 96 | Uniform random|https://ieeexplore.ieee.org/document/7780595                     |
 | SIFT100M   | 100,000,000   | 128|Uniform random |https://big-ann-benchmarks.com/neurips21.html                |
 
